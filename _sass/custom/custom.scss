@@ -57,6 +57,11 @@ body {
   padding-top: 1.1rem;
 }
 
+a,
+a:visited,
+a:hover,
+a:focus,
+a:active,
 .main-content a,
 .main-content a:visited,
 .main-content a:hover,
@@ -82,6 +87,12 @@ body {
 .nav-list .nav-list-expander svg,
 .nav-list .nav-list-expander:hover svg,
 .nav-list .nav-list-expander:focus svg,
+.nav-list .nav-list-item .nav-list-expander,
+.nav-list .nav-list-item .nav-list-expander:hover,
+.nav-list .nav-list-item .nav-list-expander:focus,
+.nav-list .nav-list-item .nav-list-expander svg,
+.nav-list .nav-list-item.active > .nav-list-expander svg,
+.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander,
 .breadcrumb-nav-list-item,
 .breadcrumb-nav-list-item a,
 .breadcrumb-nav-list-item a:visited,
@@ -89,6 +100,8 @@ body {
 .search-result a:visited,
 .search-result a:hover,
 .search-result a:focus,
+.search-input:focus + .search-label .search-icon,
+.search-result-doc .search-result-icon,
 .category-nav a,
 .category-nav a:visited,
 .category-nav a:hover,
@@ -99,7 +112,22 @@ body {
 .anchor-heading,
 .anchor-heading:visited,
 .anchor-heading:hover,
-.anchor-heading:focus {
+.anchor-heading:focus,
+.main-content .anchor-heading svg,
+.main-content .anchor-heading:hover svg,
+.main-content .anchor-heading:focus svg,
+.main-content h1:hover > .anchor-heading svg,
+.main-content h2:hover > .anchor-heading svg,
+.main-content h3:hover > .anchor-heading svg,
+.main-content h4:hover > .anchor-heading svg,
+.main-content h5:hover > .anchor-heading svg,
+.main-content h6:hover > .anchor-heading svg,
+.btn,
+.btn:visited,
+.btn:hover,
+.btn:focus,
+a.skip-to-main:focus,
+a.skip-to-main:active {
   color: var(--gss-teal);
 }
 
@@ -123,6 +151,12 @@ body {
 .anchor-heading:focus {
   outline: 2px solid var(--gss-teal);
   outline-offset: 2px;
+}
+
+div.highlighter-rouge > button:focus,
+div.listingblock > div.content > button:focus,
+figure.highlight > button:focus {
+  outline-color: var(--gss-teal);
 }
 
 .nav-list .nav-list-link.active {
