@@ -44,7 +44,7 @@ Complete these before or by August 31 (the date the incoming FO takes office).
 - [ ] Ensure all working documents are in Dropbox (not only on local drives)
 - [ ] Remove all personal belongings from office
 - [ ] Return GSS equipment (debit card, office keys, etc.) to GM
-- [ ] Ensure all system access is transferred (see [System Access](../accounts-access/))
+- [ ] Ensure all system access is transferred (see [System Access](accounts-access/))
 - [ ] Clean and organize physical office space per EOC direction
 
 ### Position Reviews (15%)

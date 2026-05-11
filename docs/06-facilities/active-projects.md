@@ -2,7 +2,7 @@
 layout: default
 title: Active Projects
 parent: Facilities
-nav_order: 2
+nav_order: 3
 permalink: /docs/06-facilities/active-projects/
 ---
 
@@ -10,13 +10,9 @@ permalink: /docs/06-facilities/active-projects/
 
 This page indexes active facilities projects and their approved project folders.
 
-{: .note }
-Source link needed: add the `GLC Projects` folder link first, then add any
-additional active project folder links that are approved for this guide.
-
 | Project | Owner / lead | Source link | Status notes |
 |---------|--------------|-------------|--------------|
-| GLC Projects | To be confirmed | Link pending | Add approved SharePoint folder link when provided |
+| GLC Projects | To be confirmed | [GLC Projects](https://ubcgss.sharepoint.com/:f:/s/GSSExecutivesStaff-SpecialProjects/IgAV7LaPRnFUQ4AA_Ugse1eSAeC2zwT6ZTtvVIrEit_VJ8o?e=ocevWI) | Account-gated SharePoint folder approved for listing |
 | Additional active project | To be confirmed | Link pending | Add only if there is a current approved project folder |
 
 ## Project Entry Standard

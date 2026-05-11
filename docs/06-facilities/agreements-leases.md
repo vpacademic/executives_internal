@@ -2,7 +2,7 @@
 layout: default
 title: Agreements and Leases
 parent: Facilities
-nav_order: 4
+nav_order: 5
 permalink: /docs/06-facilities/agreements-leases/
 ---
 

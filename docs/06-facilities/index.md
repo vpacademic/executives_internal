@@ -20,7 +20,8 @@ agreement links and approved project folder links.
 
 | Area | What it covers |
 |------|---------------|
-| [Our Spaces](our-spaces/) | Main office, Ballroom, and shared spaces |
+| [Our Spaces](our-spaces/) | Thea Koerner House rooms, GLC, Study Room, GSS Loft, Ballroom, and shared spaces |
+| [Bookings and Event Support](bookings-event-support/) | Venue requests, lead times, alcohol rules, supervision, and access coordination |
 | [Active Projects](active-projects/) | Current facilities projects and project folders |
 | [Key Contacts](key-contacts/) | Role-based contact map without private details |
 | [Agreements and Leases](agreements-leases/) | Final agreement and lease references |
@@ -28,5 +29,6 @@ agreement links and approved project folder links.
 
 ## Source Status
 
-The page structure is ready for source links. SharePoint links should be added
-only after the specific folder or final agreement has been confirmed.
+The event-booking guidance is summarized from the Events Manager executive
+training presentation. SharePoint links on public pages should point only to
+approved, account-gated folders or final/executed documents.

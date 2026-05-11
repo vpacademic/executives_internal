@@ -35,7 +35,7 @@ annual task is the budget process, which runs February through May.
 
 ## Budget Process (February–May)
 
-See [Budget Process](../../governance/budget-process/) for the full breakdown.
+See [Budget Process](../governance/budget-process/) for the full breakdown.
 The timeline below is from HF Policy Appendix II (Financial Budget Guideline).
 
 ### February

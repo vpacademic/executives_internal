@@ -9,15 +9,26 @@ permalink: /docs/06-facilities/our-spaces/
 
 # Our Spaces
 
-This section documents the physical spaces that GSS executives and staff manage
-or use regularly.
+This section documents the physical spaces that GSS executives and staff manage,
+book, or use regularly.
 
-| Space | Page | Current status |
-|-------|------|----------------|
-| GSS Main Office | [Thea Koerner House, Rm 452](main-office/) | Operational details need source verification |
-| The Ballroom | [Ballroom](ballroom/) | Lease and booking details need source verification |
-| Other shared rooms | [Other Rooms and Shared Spaces](shared-spaces/) | Room inventory and responsibilities need source verification |
+| Space | Page | Booking or use notes |
+|-------|------|----------------------|
+| GSS Main Office | [Thea Koerner House, Rm 452](main-office/) | Executive and staff workspace; access details must stay private |
+| Thea's Lounge | [Other Rooms and Shared Spaces](shared-spaces/) | 120 theatre-style, 150 standing reception; A/V, furniture, bar counter, and bar fridge |
+| Leon's Lounge | [Other Rooms and Shared Spaces](shared-spaces/) | 40 theatre-style, 15-20 classroom-style; A/V and furniture |
+| Graduate Life Centre | [Other Rooms and Shared Spaces](shared-spaces/) | Graduate student social, study, and relaxation space; bookable only on weekends and holidays |
+| Study Room | [Other Rooms and Shared Spaces](shared-spaces/) | Internal booking by GSS staff/executives and CUPE 2278 |
+| GSS Loft | [Other Rooms and Shared Spaces](shared-spaces/) | AMS Nest space for graduate student events; follows AMS booking policies |
+| The Ballroom | [Ballroom](ballroom/) | Agreement and booking details still need source confirmation |
+
+## Source Links
+
+| Resource | Link | Notes |
+|----------|------|-------|
+| GSS floor plans | [Floor Plans](https://ubcgss.sharepoint.com/:f:/s/ExternalAgreements/IgCs3INR9DssR7JgEnowPQKaAdFt5wPOG4cDuOYNzOWjWcc?e=sb8z8U) | Account-gated SharePoint folder |
 
 {: .note }
-Add room-specific procedures only after verifying current access, booking,
-maintenance, and agreement details with source documents or the General Manager.
+Do not publish access codes, key-box locations, alarm details, or staff-only
+operating notes. Keep those details in private transition material until the
+guide has an authenticated/private version.

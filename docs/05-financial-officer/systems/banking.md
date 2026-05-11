@@ -21,7 +21,7 @@ The GSS maintains five accounts:
 | 2 | **GSFA / Housing Aid** | Financial aid to UBC graduate students in unforeseen hardship; not accessible to current GSS executives or GSS graduate student employees | Policy 15 |
 | 3 | **Event Fund** | Financial rebates for events/projects organized by Affiliate Organizations (AOs) | Policy 9 |
 | 4 | **CPIF** (Capital Projects Improvement Fund) | Improve spaces under GSS control; purchase equipment/furniture with lifespan ≥ 3 years | Policy 16 |
-| 5 | **Investment** | GICs and Mutual Funds — funds not required in the short term | See [Investment Accounts](../investment/) |
+| 5 | **Investment** | GICs and Mutual Funds — funds not required in the short term | See [Investment Accounts](investment/) |
 
 ---
 

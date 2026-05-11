@@ -2,7 +2,7 @@
 layout: default
 title: Recurring Obligations
 parent: Facilities
-nav_order: 5
+nav_order: 6
 permalink: /docs/06-facilities/recurring-obligations/
 ---
 
