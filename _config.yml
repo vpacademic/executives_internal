@@ -31,7 +31,8 @@ callouts:
     color: yellow
 
 nav_sort: case_insensitive
-
+include:
+  - staticwebapp.config.json
 exclude:
   - Gemfile
   - Gemfile.lock
