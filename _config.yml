@@ -3,8 +3,8 @@ description: >-
   A practical reference for executives and staff of the Graduate Student
   Society of UBC Vancouver.
 theme: just-the-docs
-url: "https://ubcgss.github.io"
-baseurl: "/executives_staff_guide"
+url: "https://salmon-ocean-0ac3fb40f.7.azurestaticapps.net/"
+baseurl: ""
 logo: "/images/gss-logo-teal.svg"
 
 aux_links:
