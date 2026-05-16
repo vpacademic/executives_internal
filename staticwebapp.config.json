@@ -9,12 +9,17 @@
           "clientSecretSettingName": "AAD_CLIENT_SECRET"
         },
         "validation": {
-        "allowedTenants": ["TENANT_ID"]
+          "allowedTenants": ["TENANT_ID"]
         }
       }
     }
   },
   "routes": [
+    {
+      "route": "/login",
+      "rewrite": "/.auth/login/aad",
+      "allowedRoles": ["anonymous"]
+    },
     {
       "route": "/*",
       "allowedRoles": ["authenticated"]
@@ -23,7 +28,7 @@
   "responseOverrides": {
     "401": {
       "statusCode": 302,
-      "redirect": "/.auth/login/aad"
+      "redirect": "/login"
     }
   }
 }
